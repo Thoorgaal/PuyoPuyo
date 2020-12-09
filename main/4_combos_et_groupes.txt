@@ -1,0 +1,31 @@
+MODE SIMULATION
+BR
+0 1
+VJ
+0 3
+JJ
+0 5
+BR
+0 1
+VJ
+0 3
+JJ
+0 5
+BR
+0 1
+VJ
+0 3
+JJ
+0 5
+MM
+0 1
+MM
+0 5
+BR
+0 1
+JJ
+0 5
+VM
+3 3
+JM
+3 4

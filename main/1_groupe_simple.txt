@@ -1,0 +1,10 @@
+MODE SIMULATION
+BM
+0 1
+BJ
+1 2
+MM
+0 4
+MJ
+2 2
+
